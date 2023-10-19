@@ -1,0 +1,9 @@
+.env
+sa-key.json
+.terraform*
+terraform.tfstate*
+charts
+values
+manifests
+
+
